@@ -1,7 +1,7 @@
 url: https://uncovered.com/cases
-status: up
-code: 200
-responseTime: 392
-lastUpdated: 2024-01-10T21:53:08.656Z
+status: down
+code: 502
+responseTime: 14469
+lastUpdated: 2024-01-10T23:16:54.415Z
 startTime: 2024-01-10T21:53:08.256Z
 generator: Upptime <https://github.com/upptime/upptime>
