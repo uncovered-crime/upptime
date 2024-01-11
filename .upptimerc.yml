@@ -7,6 +7,10 @@ sites:
     url: https://uncovered.com
   - name: Uncovered Cases
     url: https://uncovered.com/cases
+  - name: Uncovered Next
+    url: https://next.uncovered.com
+  - name: Uncovered API
+    url: https://api.uncovered.com
 
 assignees:
   - craigsturgis
