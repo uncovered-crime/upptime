@@ -4,10 +4,10 @@
     "url": "https://uncovered.com",
     "icon": "https://icons.duckduckgo.com/ip3/uncovered.com.ico",
     "slug": "uncovered-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
@@ -15,14 +15,16 @@
     "timeWeek": 207,
     "timeMonth": 216,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-05": 2
+    }
   },
   {
     "name": "Uncovered Cases",
     "url": "https://uncovered.com/cases",
     "icon": "https://icons.duckduckgo.com/ip3/uncovered.com.ico",
     "slug": "uncovered-cases",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 392,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2024-03-05": 0,
       "2024-01-10": 32
     }
   },
