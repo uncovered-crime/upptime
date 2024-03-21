@@ -3,12 +3,12 @@ owner: uncovered-crime # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Uncovered Wordpress
+  - name: Uncovered Homepage
     url: https://uncovered.com
+  - name: Uncovered Wordpress
+    url: https://uncoveredsite.wpengine.com
   - name: Uncovered Cases
     url: https://uncovered.com/cases
-  - name: Uncovered Next
-    url: https://next.uncovered.com
   - name: Uncovered API
     url: https://api.uncovered.com
 
