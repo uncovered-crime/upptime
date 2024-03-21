@@ -45,18 +45,20 @@
     "url": "https://next.uncovered.com",
     "icon": "https://icons.duckduckgo.com/ip3/next.uncovered.com.ico",
     "slug": "uncovered-next",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 88,
-    "timeWeek": 139,
+    "time": 156,
+    "timeDay": 141,
+    "timeWeek": 146,
     "timeMonth": 192,
-    "timeYear": 155,
-    "dailyMinutesDown": {}
+    "timeYear": 156,
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   },
   {
     "name": "Uncovered API",
