@@ -6,15 +6,15 @@
     "slug": "uncovered-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 149,
-    "timeDay": 106,
-    "timeWeek": 146,
-    "timeMonth": 138,
-    "timeYear": 149,
+    "time": 148,
+    "timeDay": 67,
+    "timeWeek": 131,
+    "timeMonth": 135,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2024-07-26": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 372,
-    "timeDay": 193,
-    "timeWeek": 343,
-    "timeMonth": 334,
-    "timeYear": 372,
+    "time": 371,
+    "timeDay": 180,
+    "timeWeek": 315,
+    "timeMonth": 330,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2024-03-05": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 315,
-    "timeDay": 308,
-    "timeWeek": 401,
+    "time": 314,
+    "timeDay": 69,
+    "timeWeek": 388,
     "timeMonth": 169,
-    "timeYear": 315,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2024-03-05": 18,
       "2024-01-10": 32
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 259,
-    "timeWeek": 165,
+    "time": 159,
+    "timeDay": 244,
+    "timeWeek": 174,
     "timeMonth": 187,
-    "timeYear": 158,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   }
 ]
