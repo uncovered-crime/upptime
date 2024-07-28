@@ -4,18 +4,19 @@
     "url": "https://uncovered.com",
     "icon": "https://icons.duckduckgo.com/ip3/uncovered.com.ico",
     "slug": "uncovered-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 67,
-    "timeWeek": 131,
-    "timeMonth": 135,
+    "timeDay": 88,
+    "timeWeek": 128,
+    "timeMonth": 129,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-07-26": 17
     }
   },
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 371,
+    "time": 370,
     "timeDay": 180,
-    "timeWeek": 315,
-    "timeMonth": 330,
-    "timeYear": 371,
+    "timeWeek": 314,
+    "timeMonth": 323,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2024-03-05": 19
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 314,
-    "timeDay": 69,
+    "time": 313,
+    "timeDay": 19,
     "timeWeek": 388,
-    "timeMonth": 169,
-    "timeYear": 314,
+    "timeMonth": 168,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2024-03-05": 18,
       "2024-01-10": 32
@@ -72,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 244,
-    "timeWeek": 174,
-    "timeMonth": 187,
+    "timeDay": 197,
+    "timeWeek": 165,
+    "timeMonth": 189,
     "timeYear": 159,
     "dailyMinutesDown": {}
   }
