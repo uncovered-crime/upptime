@@ -6,9 +6,9 @@
     "slug": "uncovered-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 124,
@@ -16,7 +16,6 @@
     "timeMonth": 130,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2024-07-28": 10,
       "2024-07-26": 17
     }
   },
