@@ -7,6 +7,10 @@ sites:
     url: https://uncovered.com
   - name: Uncovered Wordpress
     url: https://uncoveredsite.wpengine.com
+  - name: Uncovered Wordpress API
+    url: https://uncoveredsite.wpengine.com/wp-json/wp/v2/pages?per_page=100&page=1
+    headers:
+    - "Authorization: Basic $WP_BASIC"
   - name: Uncovered Cases
     url: https://uncovered.com/cases
   - name: Uncovered API
