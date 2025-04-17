@@ -1,7 +1,7 @@
 url: https://uncoveredsite.wpengine.com/wp-json/wp/v2/pages?per_page=100&page=1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-17T15:00:32.263Z
+status: up
+code: 200
+responseTime: 7560
+lastUpdated: 2025-04-17T15:26:42.845Z
 startTime: 2024-11-21T21:36:41.601Z
 generator: Upptime <https://github.com/upptime/upptime>
