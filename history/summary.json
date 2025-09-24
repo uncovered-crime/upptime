@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 212,
-    "timeWeek": 179,
-    "timeMonth": 194,
-    "timeYear": 152,
-    "dailyMinutesDown": {
-      "2024-09-24": 18
-    }
+    "timeDay": 176,
+    "timeWeek": 190,
+    "timeMonth": 191,
+    "timeYear": 153,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Uncovered Wordpress",
@@ -30,9 +28,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 414,
-    "timeDay": 383,
-    "timeWeek": 357,
+    "time": 415,
+    "timeDay": 443,
+    "timeWeek": 360,
     "timeMonth": 480,
     "timeYear": 399,
     "dailyMinutesDown": {
@@ -51,11 +49,11 @@
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
-    "time": 8013,
-    "timeDay": 9805,
-    "timeWeek": 11048,
-    "timeMonth": 9315,
-    "timeYear": 8013,
+    "time": 8014,
+    "timeDay": 7244,
+    "timeWeek": 11145,
+    "timeMonth": 9350,
+    "timeYear": 8014,
     "dailyMinutesDown": {
       "2025-09-23": 40,
       "2025-09-17": 27,
@@ -81,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 306,
-    "timeWeek": 231,
-    "timeMonth": 219,
+    "timeDay": 237,
+    "timeWeek": 232,
+    "timeMonth": 220,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -99,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 207,
-    "timeWeek": 276,
-    "timeMonth": 314,
-    "timeYear": 232,
+    "timeDay": 224,
+    "timeWeek": 300,
+    "timeMonth": 312,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
