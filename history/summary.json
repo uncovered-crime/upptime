@@ -72,19 +72,19 @@
     "url": "https://uncovered.com/cases",
     "icon": "https://icons.duckduckgo.com/ip3/uncovered.com.ico",
     "slug": "uncovered-cases",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 57,
-    "timeWeek": 192,
-    "timeMonth": 227,
+    "timeDay": 105,
+    "timeWeek": 187,
+    "timeMonth": 225,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 16
     }
   },
   {
