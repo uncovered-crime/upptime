@@ -99,19 +99,19 @@
     "url": "https://api.uncovered.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.uncovered.com.ico",
     "slug": "uncovered-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.64%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.97%",
     "time": 230,
-    "timeDay": 180,
-    "timeWeek": 246,
-    "timeMonth": 256,
+    "timeDay": 173,
+    "timeWeek": 237,
+    "timeMonth": 252,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-11-18": 63
+      "2025-11-18": 146
     }
   }
 ]
