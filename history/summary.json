@@ -55,7 +55,7 @@
     "uptimeYear": "99.94%",
     "time": 7985,
     "timeDay": 7128,
-    "timeWeek": 7034,
+    "timeWeek": 7000,
     "timeMonth": 7117,
     "timeYear": 7985,
     "dailyMinutesDown": {
@@ -99,17 +99,19 @@
     "url": "https://api.uncovered.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.uncovered.com.ico",
     "slug": "uncovered-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 316,
-    "timeWeek": 294,
-    "timeMonth": 267,
+    "timeDay": 265,
+    "timeWeek": 284,
+    "timeMonth": 266,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
